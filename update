@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_tapas-14.0-20240521-0338.zip",
+    "datetime": 1716263739,
+    "size": 1741234866,
+    "url": "https://github.com/rn124g-development/PixelOS/releases/download/21-05-24/PixelOS_tapas-14.0-20240521-0338.zip",
+    "github_releases_url": "https://github.com/rn124g-development/PixelOS/releases/download/21-05-24/PixelOS_tapas-14.0-20240521-0338.zip",
+    "filehash": "a2491585690c47f902d3350ef7878625",
+    "id": "a2491585690c47f902d3350ef7878625",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "AliHasan7671",
+            "name": "Ali Hasan"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
