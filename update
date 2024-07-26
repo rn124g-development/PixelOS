@@ -1,13 +1,13 @@
 {
-    "error": false,
+    "error":false,
     "version": "fourteen",
-    "filename": "PixelOS_tapas-14.0-20240708-0847.zip",
-    "datetime": 1720430109,
-    "size": 1998697113,
-    "url": "https://github.com/rn124g-development/PixelOS/releases/download/08-07-24/PixelOS_tapas-14.0-20240708-0847.zip",
-    "github_releases_url": "https://github.com/rn124g-development/PixelOS/releases/download/08-07-24/PixelOS_tapas-14.0-20240708-0847.zip",
-    "filehash": "f1b4c9729d069f02edf901dbe49bac20",
-    "id": "f1b4c9729d069f02edf901dbe49bac20",
+    "filename": "Update disabled - Flash via recovery! PixelOS_tapas-14.0-20240726-0806.zip",
+    "datetime": 1721982644,
+    "size": 1987832399,
+    "url": "https://github.com/rn124g-development/PixelOS/releases/download/26-07-24/PixelOS_tapas-14.0-20240726-0806.zip",
+    "github_releases_url": "https://github.com/rn124g-development/PixelOS/releases/download/26-07-24/PixelOS_tapas-14.0-20240726-0806.zip",
+    "filehash": "134783d0fb542c0ac15056dc71a5d4ad",
+    "id": "134783d0fb542c0ac15056dc71a5d4ad",
     "maintainers": [
         {
             "main_maintainer": true,
