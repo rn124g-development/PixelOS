@@ -1,13 +1,13 @@
 {
     "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_tapas-14.0-20240926-0915.zip",
-    "datetime": 1727339212,
-    "size": 1857543367,
-    "url": "https://github.com/rn124g-development/PixelOS/releases/download/26-09-24/PixelOS_tapas-14.0-20240926-0915.zip",
-    "github_releases_url": "https://github.com/rn124g-development/PixelOS/releases/download/26-09-24/PixelOS_tapas-14.0-20240926-0915.zip",
-    "filehash": "2dc745d370e4659e4a0b2a0aeb31494e",
-    "id": "2dc745d370e4659e4a0b2a0aeb31494e",
+    "version": "fifteen",
+    "filename": "Feather_tapas-15-20241019-1204.zip",
+    "datetime": 1729324550,
+    "size": 1981108108,
+    "url": "https://downloads.sourceforge.net/project/featherrom/15/tapas/Feather_tapas-15-20241019-1204.zip",
+    "github_releases_url": "https://downloads.sourceforge.net/project/featherrom/15/tapas/Feather_tapas-15-20241019-1204.zip",
+    "filehash": "8d5e50a775497c720677824140720f33",
+    "id": "8d5e50a775497c720677824140720f33",
     "maintainers": [
         {
             "main_maintainer": true,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
+    "website_url": "https://t.me/topsecretgroup",
+    "news_url": "https://t.me/topsecretgroup",
     "forum_url": ""
 }
