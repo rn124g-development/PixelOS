@@ -1,9 +1,4 @@
-# 14-Feb-2022
-- Change 1
-- Change 2
-- Change 3
+📢 **Changelog Unavailable**
 
-# 12-Jan-2022
-- Change 1
-- Change 2
-- Change 3
+For the latest updates and changelogs, please visit our [Telegram group](https://t.me/topsecretgroup)  
+or search for **@topsecretgroup** in Telegram if the link doesn't work.
